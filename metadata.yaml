@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6887
     wikipedia: http://sv.wikipedia.org/wiki/Christian_Keferstein
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16718#Mineralogia-Polyglotta
 gutenberg_bookshelf:
 - Geology
 - DE Sachbuch
