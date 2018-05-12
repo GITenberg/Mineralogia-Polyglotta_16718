@@ -1,0 +1,32 @@
+_repo: Mineralogia-Polyglotta_16718
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keferstein, Christian
+    birthdate: 1784
+    deathdate: 1866
+    gutenberg_agent_id: '6887'
+    url: http://www.gutenberg.org/2009/agents/6887
+    wikipedia: http://sv.wikipedia.org/wiki/Christian_Keferstein
+description: ''
+gutenberg_bookshelf:
+- Geology
+- DE Sachbuch
+- German Language Books
+gutenberg_issued: '2005-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16718'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QD'
+- !lcsh 'Mineralogy'
+- !lcc 'QE'
+title: Mineralogia Polyglotta
+url: http://www.gutenberg.org/ebooks/16718
